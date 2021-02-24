@@ -1,0 +1,87 @@
+
+body{
+    margin: 2%;
+}
+
+h1, h2, h3, h4 {
+    margin: 2%;
+}
+
+p{
+    font-size: 15px;
+}
+
+#searchDiv{
+    margin: 2%;
+}
+
+.forecastDiv{
+    width: 75vw;
+    margin: 2%;
+    column-count: 3;
+    padding: 2%;
+}
+
+.forecastDate{
+
+}
+
+
+.forecastImg{
+    width: 80px;
+}
+
+.forecastConditionText{
+margin: 0%;
+}
+
+.showForecastMaxTemp{
+
+}
+
+.showForecastMinTemp{
+
+}
+
+#weatherCurrentDiv{
+    width: 75vw;
+    margin: 2%;
+    padding: 2%;
+    column-count: 3;
+}
+
+#weatherCurrentImg{
+    width: 80px;
+}
+
+#weatherCurrentDate{
+
+}
+
+#weatherCurrentDegrees{
+
+}
+
+#weatherCurrentLocation{
+
+}
+
+#searchDiv{
+
+}
+#inputLocation{
+
+}
+
+#btnSearchLocation{
+    margin-left: 1%;
+}
+
+.weatherMoreInformationDiv{
+    margin: 2%;
+}
+
+.moreInformationHeading{
+    margin: 0%;
+    text-decoration: black underline;
+}
